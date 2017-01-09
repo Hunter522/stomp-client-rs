@@ -1,0 +1,6 @@
+[package]
+name = "stomp-client"
+version = "0.1.0"
+authors = ["Hunter N. Morgan <hunterm522@gmail.com>"]
+
+[dependencies]
